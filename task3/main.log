@@ -1,0 +1,6 @@
+Функция flat_generator вызвана: Mon 18 Sep 2023, 01:14:13, 
+С аргументами: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}.
+Результат: <generator object main.<locals>.flat_generator at 0x00000273E7024820>
+Функция flat_generator вызвана: Mon 18 Sep 2023, 01:15:11, 
+С аргументами: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}.
+Результат: flat_generator
